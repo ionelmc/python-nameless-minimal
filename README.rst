@@ -19,7 +19,7 @@ Nameless
     :alt: PYPI Package
     :target: https://pypi.python.org/pypi/nameless-minimal
 
-An example package. Replace this with a proper project description. Generated with https://github.com/ionelmc/cookiecutter-pylibrary
+An example package. Replace this with a proper project description. Generated with https://github.com/ionelmc/cookiecutter-pylibrary-minimal
 
 * Free software: BSD license
 

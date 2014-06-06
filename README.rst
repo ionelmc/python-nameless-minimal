@@ -11,13 +11,13 @@ Nameless
     :alt: Coverage Status
     :target: https://coveralls.io/r/ionelmc/python-nameless-minimal
 
-.. image:: http://img.shields.io/pypi/v/nameless.png
+.. image:: http://img.shields.io/pypi/v/nameless-minimal.png
     :alt: PYPI Package
-    :target: https://pypi.python.org/pypi/nameless
+    :target: https://pypi.python.org/pypi/nameless-minimal
 
-.. image:: http://img.shields.io/pypi/dm/nameless.png
+.. image:: http://img.shields.io/pypi/dm/nameless-minimal.png
     :alt: PYPI Package
-    :target: https://pypi.python.org/pypi/nameless
+    :target: https://pypi.python.org/pypi/nameless-minimal
 
 An example package. Replace this with a proper project description. Generated with https://github.com/ionelmc/cookiecutter-pylibrary
 
@@ -28,7 +28,7 @@ Installation
 
 ::
 
-    pip install nameless
+    pip install nameless-minimal
 
 Documentation
 =============

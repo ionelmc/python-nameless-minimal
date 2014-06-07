@@ -2,7 +2,6 @@
 Nameless
 ===============================
 
-
 .. image:: http://img.shields.io/travis/ionelmc/python-nameless-minimal/master.png
     :alt: Build Status
     :target: https://travis-ci.org/ionelmc/python-nameless-minimal

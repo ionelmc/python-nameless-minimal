@@ -4,4 +4,4 @@ Installation
 
 At the command line::
 
-    $ pip install nameless-minimal
+    pip install nameless-minimal

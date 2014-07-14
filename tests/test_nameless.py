@@ -1,6 +1,6 @@
 import unittest
 
-from nameless import main
+from nameless.__main__ import main
 
 
 class MainTestCase(unittest.TestCase):
